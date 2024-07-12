@@ -48,17 +48,6 @@ Ensure you have the following installed:
    - Match all pairs to win.
    - Your total tries will be displayed at the end.
 
-## 📸 Screenshots
-
-![Start Screen](screenshots/start_screen.png)
-*Start Screen*
-
-![Game Screen](screenshots/game_screen.png)
-*Game Screen*
-
-![Win Screen](screenshots/win_screen.png)
-*Win Screen*
-
 ## 🧩 Code Overview
 
 The main game logic is implemented in the `GameM2` class. Here's a brief overview of the key components:
